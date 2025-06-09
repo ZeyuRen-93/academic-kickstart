@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Robotics Researcher"
-  company = "ByteDance Inc."
+  company = "ByteDance Seed."
   company_url = "https://www.bytedance.com/en/"
   location = "Beijing"
   date_start = "2023-11-29"
