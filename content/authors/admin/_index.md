@@ -30,10 +30,10 @@ education:
   courses:
   - course: PhD in Robotics
     institution: Italian Institute of Technology (IIT), Italy
-    year: 2015-2019
+    year: 2015 - 2019
   - course: MEng in Mechatronics Engineering, CKC Honored College
     institution: Zhejiang University (ZJU), China
-    year: 2011-2015
+    year: 2011 - 2015
 
 
 # Social/Academic Networking
@@ -46,9 +46,9 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=-covmygAAAAJ&hl=it
   
-- icon: envelope
-  icon_pack: fas
-  link: zeyuren93@gmail.com
+#- icon: envelope
+#  icon_pack: fas
+#  link: zeyuren93@gmail.com
   
 #- icon: youtube
 #  icon_pack: fab
