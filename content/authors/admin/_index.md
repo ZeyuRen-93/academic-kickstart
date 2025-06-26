@@ -14,26 +14,26 @@ role: Robotics Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: ByteDance Inc.
-  url: "https://www.bytedance.com/en/"
+- name: ByteDance Seed
+  url: "https://seed.bytedance.com/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators.
+bio: My research interests include cobot arms, dexterous hands, actuators and humanoid robots.
 
 interests:
+- Cobot Arms
+- Dexterous Hands
+- Actuators
 - Humanoid Robots
-- Under Actuated Hands
-- Tendon Driven Mechanism
-- Series Elastic Actuators
 
 education:
   courses:
   - course: PhD in Robotics
-    institution: Italian Insitute of Technology (IIT), Italy
-    year: 2019
-  - course: MEng in Mechatronics Engineering
+    institution: Italian Institute of Technology (IIT), Italy
+    year: 2015-2019
+  - course: MEng in Mechatronics Engineering, CKC Honored College
     institution: Zhejiang University (ZJU), China
-    year: 2015
+    year: 2011-2015
 
 
 # Social/Academic Networking
@@ -48,11 +48,11 @@ social:
   
 - icon: envelope
   icon_pack: fas
-  link: "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link: zeyuren93@gmail.com
   
-- icon: youtube
-  icon_pack: fab
-  link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
+#- icon: youtube
+#  icon_pack: fab
+#  link: https://www.youtube.com/channel/UCE77Msclo0X8TGI7-Ehw_Nw?view_as=subscriber
   
 - icon: researchgate
   icon_pack: ai
@@ -76,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Zeyu Ren is currently a robotics researcher at ByteDance Seed. His research interests include collaborative robotic arms, under-actuated hands, tendon-driven mechanism and actuators. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
+Zeyu Ren is currently a robotics researcher at ByteDance Seed. His research interests include cobot arms, dexterous hands, actuators and humanoid robots. In 2019, he received his Ph.D degree in Robotics from Italian Institute of Technology under the supervision of Dr. Nikos G. Tsagarakis. His bachelor degree was obtained in Mechatronics Engineering from Zhejiang University in 2015.
