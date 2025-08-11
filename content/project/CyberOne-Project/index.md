@@ -1,5 +1,5 @@
 ---
-title: Xiao Mi CyberOne
+title: Xiaomi CyberOne
 summary:  Design and develop humanoid robot CyberOne.
 tags:
 - Xiaomi CyberOne
