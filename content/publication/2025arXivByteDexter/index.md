@@ -45,7 +45,7 @@ links:
    url: https://www.youtube.com/watch?v=7AAqSS7KC3A&t=17s
 # - name: RESEARCH-GATE  
 #   url: https://www.researchgate.net/publication/344610670_On_the_efficient_control_of_series-parallel_compliant_articulated_robots
-# url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://arxiv.org/pdf/2507.03227
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
