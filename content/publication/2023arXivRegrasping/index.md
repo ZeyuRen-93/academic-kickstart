@@ -29,7 +29,7 @@ abstract: Re-grasp manipulation leverages on ergonomic tools to assist humans in
 
 
 # Summary. An optional shortened abstract.
-# summary:  In this paper we present a novel implementation of hardware synergies realized on the actuation level by leveraging on a novel adjustable electric actuation topology principle.
+summary:  An imitation learning-based end-to-end sliding controller, using minimal object mechanics knowledge and only position info, is trained via GAIL with data glove-collected expert data. It shows versatility across objects in simulations and achieves 86% success in physical systems, outperforming BC (35%) and PPO (20%).
 
 tags:
 - Source Themes
