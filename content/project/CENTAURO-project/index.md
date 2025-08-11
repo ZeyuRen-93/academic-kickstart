@@ -1,6 +1,6 @@
 ---
 title: CENTAURO
-summary: Developed HERI-II-C under-actuated hand for CENTAURO robot.
+summary: Developed HERI-II-C under-actuated hands for CENTAURO robot.
 tags:
 - CENTAURO
 date: "2018-10-27T00:00:00Z"
