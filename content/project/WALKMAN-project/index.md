@@ -1,6 +1,6 @@
 ---
-title: IIT eLeg
-summary: Developed a 3-DoF Leg (eLeg) for verfifying energy efficiency and explosive motion.
+title: IIT e-Leg
+summary: Developed a 3-DoF Leg (e-Leg) for verfifying energy efficiency and explosive motion.
 tags:
 - WALK-MAN LEG
 date: "2017-09-27T00:00:00Z"
