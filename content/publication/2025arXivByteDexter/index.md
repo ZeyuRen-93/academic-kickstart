@@ -36,13 +36,13 @@ abstract: Replicating human--level dexterity remains a fundamental robotics chal
 
 
 # Summary. An optional shortened abstract.
-summary:  A hand-arm teleoperation system with a 20-DoF anthropomorphic hand and optimization-based motion retargeting addresses the key robotics challenge of replicating human-level dexterity, enabling real-time, high-fidelity motion reproduction and generating high-quality demonstration data as validated by experiments.
+summary: A hand-arm teleoperation system with a 20-DoF anthropomorphic hand and optimization-based motion retargeting addresses the key robotics challenge of replicating human-level dexterity, enabling real-time, high-fidelity motion reproduction and generating high-quality demonstration data as validated by experiments.
 
 tags:
 - Source Themes
 featured: true
 
-# links:
+links:
  - name: DEMO
    url: https://www.youtube.com/watch?v=7AAqSS7KC3A&t=17s
 # - name: RESEARCH-GATE  
