@@ -1,6 +1,6 @@
 ---
 title: ByteDance Seed GR-3
-summary:  Design and develop ByteMini robots for GR-3
+summary:  Design and develop ByteMini robots for GR-3.
 tags:
 - ByteDance Seed GR-3
 date: "2025-07-05T00:00:00Z"
