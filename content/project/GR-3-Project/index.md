@@ -9,7 +9,7 @@ date: "2025-07-05T00:00:00Z"
 # external_link: "[https://seed.bytedance.com/en/GR3]"
 
 image:
-  caption: GR-3
+  caption: The Bytemini robot uses the GR-3 operation model to hang clothes
   focal_point: Smart
 ---
 
