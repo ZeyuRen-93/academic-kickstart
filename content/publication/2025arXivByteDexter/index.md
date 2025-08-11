@@ -32,7 +32,7 @@ publication_types: ["1"]
 publication: In *arXiv preprint arXiv:2507.03227*
 publication_short: In *arXiv preprint arXiv:2507.03227*
 
-abstract: Replicating human-level dexterity remains a fundamental robotics challenge, requiring integrated solutions from mechatronic design to the control of high degree-of-freedom (DoF) robotic hands. While imitation learning shows promise in transferring human dexterity to robots, the efficacy of trained policies relies on the quality of human demonstration data. We bridge this gap with a handarm teleoperation system featuring: 
+abstract: Replicating human-level dexterity remains a fundamental robotics challenge, requiring integrated solutions from mechatronic design to the control of high degree-of-freedom (DoF) robotic hands. While imitation learning shows promise in transferring human dexterity to robots, the efficacy of trained policies relies on the quality of human demonstration data.
 # Summary. An optional shortened abstract.
 summary: A hand-arm teleoperation system with a 20-DoF anthropomorphic hand and optimization-based motion retargeting addresses the key robotics challenge of replicating human-level dexterity, enabling real-time, high-fidelity motion reproduction and generating high-quality demonstration data as validated by experiments.
 
