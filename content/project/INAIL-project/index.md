@@ -1,5 +1,5 @@
 ---
-title: INAIL
+title: IIT INAIL
 summary:  Developed HERI-II-H under-actuated hands for HyQ-Real robot.
 tags:
 - INAIL
