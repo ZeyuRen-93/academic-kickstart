@@ -1,6 +1,6 @@
 ---
 title: ByteDance Seed ByteDexter
-summary:  Design and develop dexterous hands ByteDexter
+summary:  Design and develop dexterous hands ByteDexter.
 tags:
 - ByteDance Seed ByteDexter
 date: "2025-07-05T00:00:00Z"
