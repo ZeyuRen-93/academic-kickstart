@@ -42,7 +42,7 @@ tags:
 - Source Themes
 featured: true
 
- links:
+links:
  - name: DEMO
    url: https://www.youtube.com/watch?v=7AAqSS7KC3A&t=17s
 # - name: RESEARCH-GATE  
